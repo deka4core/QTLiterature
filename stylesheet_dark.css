@@ -1,0 +1,106 @@
+QMainWindow, QWidget {
+    background-color: rgb(43, 43, 43)
+}
+QWidget QLabel {
+    color: white
+}
+QPushButton {
+                                    border-image: url(img/button_dark.png);
+                                   color: rgb(255, 255, 255);
+                                   font: bold large "Clear Sans";
+                                   font-size: 14px;
+                                   }
+                                   QLabel {
+                                   color: black;
+                                   font: bold large "Clear Sans";
+                                   font-size: 14px;
+                                   }
+                                   QComboBox {
+                                    border: 2px solid rgb(89, 91, 93);
+                                    border-radius: 4px;
+                                    font: bold large "Clear Sans";
+                                    color: white;
+                                   font-size: 14px;
+                                   }
+                                   QComboBox QAbstractItemView {
+                                    color: white;
+                                   }
+                                   QComboBox::drop-down {
+                                   color: white;
+                                    background-color: rgb(249, 192, 27);
+                                    image: url(img/arrow_down.ico);
+                                    max-width: 14px;
+                                    max-height: 14px;
+                                    border: 1px solid rgb(249, 192, 27);
+                                    font: bold large "Clear Sans";
+                                   font-size: 14px;
+                                   }
+                                   QComboBox::drop-down::hover {
+                                   color: white;
+                                    background-color: rgb(229, 172, 7);
+                                    image: url(img/arrow_down.ico);
+                                    max-width: 14px;
+                                    max-height: 14px;
+                                    border: 1px solid rgb(249, 192, 27);
+                                    font: bold large "Clear Sans";
+                                   font-size: 14px;
+                                   }
+                                   QPushButton::hover {
+                                   border-image: url(img/button_dark_pressed.png);
+                                   color: rgb(255, 255, 255);
+                                   font: bold large "Clear Sans";
+                                   font-size: 14px;
+                                   }
+                                   QLineEdit {
+                                   border-image: url(img/lineEdit_dark.png);
+                                   font: bold large "Clear Sans";
+                                   color: white;
+                                   font-size: 14px;
+                                   }
+                                   QTableWidget, QPlainTextEdit {
+                                   selection-color: black;
+                                   selection-background-color: rgb(249, 192, 27);
+                                   border: 3px solid rgb(249, 192, 27);
+                                   border-left: 0px;
+                                   border-right: 0px;
+                                   border-radius: 4px;
+                                   font: bold "Clear Sans";
+                                   font-size: 11px;
+                                   background-color: rgb(60, 63, 65);
+                                   color: white
+                                   }
+                                   QHeaderView::section {
+                                   font: bold large "Clear Sans";
+                                   background-color: rgb(60, 63, 65);
+                                   color: white;
+                                   font-size: 14px;
+                                    }
+                                    QHeaderView {
+                                    background-color: rgb(60, 63, 65);
+                                    }
+                                    QScrollBar:vertical {
+                                    border: 2px solid grey;
+                                     background: rgb(49, 51, 53);
+                                     width: 15px;
+                                     margin: 22px 0 22px 0;
+                                    }
+                                    QScrollBar::handle:vertical {
+                                     background: rgb(78, 78, 78);
+                                     min-height: 20px;
+                                    }
+                                    QScrollBar::add-line:vertical {
+                                     border: 2px solid grey;
+                                     background: rgb(49, 51, 53);
+                                     height: 20px;
+                                     subcontrol-position: bottom;}
+                                    QPlainTextEdit {
+                                    font: bold "Clear Sans";
+                                    font-size: 14px;
+                                    }
+                                    FAQWindow QLabel {
+                                    font: bold "Clear Sans";
+                                    font-size: 23px;
+                                    }
+                                    QTableCornerButton::section {
+                                    background: rgb(60, 63, 65);
+                                    }
