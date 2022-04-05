@@ -1,5 +1,4 @@
-README.md
-
+[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/deka4core/QTLiterature.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/deka4core/QTLiterature/context:python)
 
 # НАЗВАНИЕ ПРОЕКТА
 
