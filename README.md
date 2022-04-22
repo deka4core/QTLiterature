@@ -1,4 +1,4 @@
-[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/deka4core/QTLiterature.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/deka4core/QTLiterature/context:python)
+[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/deka4core/QTLiterature.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/deka4core/QTLiterature/context:python) ![Lines of code](https://img.shields.io/tokei/lines/github.com/deka4core/QTLiterature) 
 
 # НАЗВАНИЕ ПРОЕКТА
 
